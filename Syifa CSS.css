@@ -1,0 +1,30 @@
+body{
+    background-color:  #03293f;
+    }
+    .container-navbar{
+        background-color:  #03293f;
+    }
+    .container-footer{
+        background-color:  #03293f ;
+    }
+    .image{
+        width: 100%;
+        height: 20vh;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    .image img{
+       height: 300px;
+       width: 300x;
+       border-radius: 10%;
+       border: 10px;
+    }
+    audio {
+        width: 100%; 
+        margin-top: 20px;
+    }
+
+      £header {
+        background-color: aqua;
+    }
